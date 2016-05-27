@@ -11,3 +11,5 @@ def rot13(message)
 
   return array.join("")
 end
+
+p rot13("afhdj rhkh KJ")
